@@ -1,0 +1,4 @@
+:ai
+dfrgui
+pause
+exit
